@@ -1,0 +1,1 @@
+(()=>{const e=document.createElement("p"),t=document.querySelector(".container");e.style.fontSize="50px",e.textContent="Hello, World!",t.appendChild(e)})();
